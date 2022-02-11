@@ -1,5 +1,5 @@
 
-#### Password Generator Project ####
+#### Password Generator (Sequencial order) ####
 
 '''
 This python code outputs a password based on the prompted number of letters, numbers, and symbols sequencially. 
