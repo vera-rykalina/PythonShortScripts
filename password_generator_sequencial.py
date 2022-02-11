@@ -2,7 +2,7 @@
 #### Password Generator Project ####
 
 '''
-This code outputs a password based on the prompted number of letter, numbers, and symbols sequencially. 
+This python code outputs a password based on the prompted number of letters, numbers, and symbols sequencially. 
 '''
 # Load random library
 import random
